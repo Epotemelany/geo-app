@@ -1,4 +1,4 @@
 import os
-print (hello mel)
+print(hello mel)
 os.syetem("date")
 os.syetem("uname -r")
