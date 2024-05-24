@@ -1,4 +1,5 @@
 import os
 print("hello mel")
-os.syetem("date")
-os.syetem("uname -r")
+
+os.system("date")
+os.system("uname -r")
